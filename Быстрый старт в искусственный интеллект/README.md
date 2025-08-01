@@ -1,0 +1,1 @@
+![quick st logo](/images/quick_st_ai.png)
